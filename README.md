@@ -4,9 +4,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/hagopj13/node-express-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/hagopj13/node-express-boilerplate?branch=master)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A boilerplate/starter project for quickly building RESTful APIs using Node.js, Express, and Mongoose.
+Node.js, Express 및 Mongoose를 사용하여 RESTful API를 빠르게 구축하기 위한 상용구/스타터 프로젝트입니다.
 
-By running a single command, you will get a production-ready Node.js app installed and fully configured on your machine. The app comes with many built-in features, such as authentication using JWT, request validation, unit and integration tests, continuous integration, docker support, API documentation, pagination, etc. For more details, check the features list below.
+단일 명령을 실행하면 프로덕션에 즉시 사용 가능한 Node.js 앱이 컴퓨터에 설치되고 완전히 구성됩니다. 이 앱에는 JWT를 사용한 인증, 요청 유효성 검사, 단위 및 통합 테스트, 지속적인 통합, Docker 지원, API 문서화, 페이지 매김 등과 같은 다양한 기능이 내장되어 있습니다. 자세한 내용은 아래 기능 목록을 확인하세요.
 
 ## Quick Start
 
